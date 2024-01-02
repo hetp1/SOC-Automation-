@@ -1,4 +1,4 @@
-# SOC-Automation-
+# SOC-Automation
 Security Operations Center
 
 Tools we will be using: 
